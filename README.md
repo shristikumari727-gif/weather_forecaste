@@ -1,4 +1,4 @@
-# weather_forecaste
+# Description 
 A Python project that fetches current weather data and predicts future temperature and humidity using historical data and machine learning models.
 # Weather Prediction Project
 This project provides current weather information and predicts future temperature and humidity based on historical data.
