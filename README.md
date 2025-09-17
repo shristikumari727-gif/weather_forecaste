@@ -2,6 +2,8 @@
 A Python project that fetches current weather data and predicts future temperature and humidity using historical data and machine learning models.
 # Weather Forecast
 This project provides current weather information and predicts future temperature and humidity based on historical data.
+
+
 <img width="685" height="248" alt="Predict image" src="https://github.com/user-attachments/assets/4095451b-e5b4-4298-8ed0-3913a8401d8d" />
 
 
